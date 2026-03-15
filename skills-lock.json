@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "seedance-2.0-prompter": {
+      "source": "pexoai/pexo-skills",
+      "sourceType": "github",
+      "computedHash": "0c6fa7eaf730bfee8f9d8b22de1fd9b610e8c9885bab31628fda5bf0b352a81d"
+    }
+  }
+}
